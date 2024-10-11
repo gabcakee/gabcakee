@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel! You can call me gab or gabby :) Im an ENFP <3
+- 👋 Hi, I’m Gabriel! You can call me gab or gabby :) 
 - 👀 I’m interested in a LOT of things. I like reading novels, listening to music, playing games, playing the guitar, cooking, eating good food, and photography.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on websites.
